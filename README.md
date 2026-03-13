@@ -14,4 +14,5 @@ A high-fidelity interactive and clickable prototype designed to visualize what a
 - Figma
 - paint.net
 ## Check it out!
+[GIF Showcase](Pet4U Rough Showcase.gif)
 [Click me!](https://www.figma.com/proto/6wwNBzNMd7rrP8fgASz2Rc/Pet4U-Pro-Max?node-id=231-2842&starting-point-node-id=231%3A2842&scaling=scale-down-width&content-scaling=fixed&t=G7FQH1bQ72zk8Ohf-1)
